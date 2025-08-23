@@ -26,7 +26,6 @@ Diseñar un plan de acción integral que **diagnostique y resuelva los problemas
 
 | Integrante                          | Sección Responsable                              |
 |------------------------------------|-------------------------------------------------|
-| **Mauricio Manuel Alvarado Rivera** | [Gestión de Paquetes](packages.md) |
 | **Bryan Josué Díaz Ascencio**       | [Almacenamiento](storage.md) |
 | **Diego Alberto Fuentes Osorio**    | [Seguridad](security.md) |
 | **Immer Manuel Loarca Santos**      | [Gestión de Paquetes - explicación adicional](packages.md) |
