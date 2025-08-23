@@ -7,7 +7,10 @@ Instalación de paquetes de manera manual, lo que causa inconsistencia en versio
 Implementación de Repositorios espejos (Mirrors).
 
 ##Explicación
-El consumo creado por cada uno en su ancho de banda e inconsistencias de las mismas versiones las cuales pueden ser una gran desventajas por la diferencia de accesibilidad y la mayor propensión de desarrollar errores humanos. En lo cual como grupo proponemos la configuración de repositorios espejos locales los cuales crearan multiples beneficios como: 
+El consumo creado por cada uno en su ancho de banda e inconsistencias de las mismas versiones las cuales pueden ser una gran desventajas por la diferencia de accesibilidad y la mayor propensión de desarrollar errores humanos. 
+
+##Propuesta
+Como grupo proponemos la configuración de repositorios espejos locales con el objetivo de mejorar la eficiencia y la seguridad en la gestión del código. Esta estrategia permitirá mantenerlos cuales crearan multiples beneficios como: 
 
 -Consistencia: Todos los servidores instalan la misma version de paquetes para evitar la inconsistencia de versiones.
 
