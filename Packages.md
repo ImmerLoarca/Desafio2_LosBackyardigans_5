@@ -3,7 +3,7 @@
 ## Problema
 Instalación de paquetes de manera manual, lo que causa inconsistencia en versiones de software.
 
-## Solución
+## Solución por Equipo 5 - LosBackyardigans
 Implementación de Repositorios espejos (Mirrors).
 
 ## Explicación
@@ -20,4 +20,4 @@ Como grupo proponemos la configuración de repositorios espejos locales con el o
 ## Ejemplo No técnico
 Seria como tener un almacén interno en la empresa (un repositorio espejo), se compra una sola vez en el supermercado y se guarda todo en el almacén. Después, cada empleado (servidor) recoge de ese almacén exactamente la misma versión del producto. Así se ahorra tiempo, se evita el tráfico excesivo en internet y todos tienen los mismos programas funcionando.
 
-Autor: Immer Loarca
+# Autor: Immer Loarca
