@@ -40,7 +40,7 @@ Este repositorio se organiza en secciones independientes, cada una enfocada en u
 - 📂 **[storage.md](storage.md):**  
   Explica los riesgos de fallos de disco y propone la implementación de **RAID 5** para mejorar la redundancia y disponibilidad de los datos.
 
-- 📂 **[packages.md](Packages.md):**  
+- 📂 **[Packages.md](Packages.md):**  
   Detalla los problemas de instalar paquetes manualmente y presenta la solución mediante **repositorios espejo (mirrors)**, incluyendo ejemplos de comandos.
 
 - 📂 **[networking.md](networking.md):**  
