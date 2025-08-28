@@ -12,7 +12,7 @@ donde se analizan las principales problemáticas de la red corporativa y se pres
 ## 📌 Objetivo General
 Diseñar un plan de acción integral que **diagnostique y resuelva los problemas de infraestructura, seguridad y gestión de software de TechSolutions Inc.**, garantizando una red **estable, eficiente, segura y escalable**.
 
----
+no---
 
 ## 🎯 Objetivos Específicos
 - Analizar los problemas críticos en almacenamiento, gestión de paquetes, configuración de red y seguridad.  
@@ -60,7 +60,4 @@ El trabajo se organizó en **4 fases principales**:
 
 ---
 
-## 📂 Instrucciones de Uso del Repositorio
-1. Clonar el repositorio con Git:  
-   ```bash
-   git clone https://github.com/LosBackyardigans/Desafio_Equipo5.git
+# Autor: Mauricio Alvarado.
